@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(235, 213, 217);
+}
+form{
+
+    font-size: x-large;
+    border-style: solid;
+    border-color: rgb(0, 255, 64);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+button{
+    font-size: larger;
+}
+p{
+   background-color: rgb(255, 0, 0);
+   
+
+}
+strong{
+    background-color: rgb(245, 179, 218);
+}
+th{
+
+padding-left: 200px;
+
+}
+h1{
+background-color:blue;
+
+}
